@@ -8,6 +8,5 @@
 
 - 🔭 I’m currently working on finishing my degree
 - 🌱 I’m currently learning Networking & Security
-- 👯 I’m looking to collaborate on ...
 
 -->
