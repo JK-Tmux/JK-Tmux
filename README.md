@@ -6,6 +6,8 @@
 - Professional Communication | Certiport
 
 
+[Homelab w/ Active Directory](https://github.com/JK-Tmux/Homelab-Utilizing-Active-Directory-)
+
 [elif tutorial - bash "Input Parameter Parsing"](https://github.com/janikaralee/interactive-tutorials/blob/master/tutorials/learnshell.org/en/elif.md)
 
-[Homelab w/ Active Directory](https://github.com/JK-Tmux/Homelab-Utilizing-Active-Directory-)
+
