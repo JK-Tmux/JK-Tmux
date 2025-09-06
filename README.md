@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 - Computer Security & Networking (AS)
 - CompTIA A+
 - TestOut Security Pro [6-3C6-5QGVF]
