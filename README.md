@@ -17,7 +17,8 @@
 
 
 <ins>**CTFs**</ins> 
-- [Season V, US Cyber Open]([https://example.com](https://badges.parchment.com/public/assertions/R4QpsiZpQZ66kNvOGA8Oqg))
-- [NCL Spring 2025 Team Game]([https://example.com](https://badges.parchment.com/public/assertions/R4QpsiZpQZ66kNvOGA8Oqg](https://www.linkedin.com/redir/redirect/?url=http%3A%2F%2Fcyberskyline.com%2Freport%2FR3X6Y4UT0CRW&urlhash=UXPf&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BSDtNFxJMRWGQaRyBp6NOMg%3D%3D)
+- [Season V, US Cyber Open](https://badges.parchment.com/public/assertions/R4QpsiZpQZ66kNvOGA8Oqg)
+  
+- [NCL Spring 2025 Team Game](https://www.linkedin.com/redir/redirect/?url=http%3A%2F%2Fcyberskyline.com%2Freport%2FR3X6Y4UT0CRW&urlhash=UXPf&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BSDtNFxJMRWGQaRyBp6NOMg%3D%3D)
 
 - JK-Tmux
