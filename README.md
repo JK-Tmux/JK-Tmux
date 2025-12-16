@@ -21,6 +21,3 @@
 - NCL Fall 2025 Individual Game | Diamond | 95th percentile overall | November 2025
 - Season V, US Cyber Open | July 2025
 - NCL Spring 2025 Team Game | Platinum | 75th percentile overall | April 2025
-
-
-- JK-Tmux
