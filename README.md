@@ -17,8 +17,10 @@
 
 
 <ins>**CTFs**</ins> 
-- [Season V, US Cyber Open](https://badges.parchment.com/public/assertions/R4QpsiZpQZ66kNvOGA8Oqg)
-  
-- [NCL Spring 2025 Team Game](https://www.linkedin.com/redir/redirect/?url=http%3A%2F%2Fcyberskyline.com%2Freport%2FR3X6Y4UT0CRW&urlhash=UXPf&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BSDtNFxJMRWGQaRyBp6NOMg%3D%3D)
+- [NCL Fall 2025 Individual Game](cyberskyline.com/report/L9H7QE5PB03X) | Diamond | 90th percentile overall | November 2025
+- [NCL Fall 2025 Individual Game](cyberskyline.com/report/WXER9RREKA7C) | Diamond | 95th percentile overall | November 2025
+- [Season V, US Cyber Open](https://badges.parchment.com/public/assertions/R4QpsiZpQZ66kNvOGA8Oqg) | July 2025
+- [NCL Spring 2025 Team Game](https://cyberskyline.com/report/R3X6Y4UT0CRW) | Platinum | 75th percentile overall | April 2025
+
 
 - JK-Tmux
