@@ -3,7 +3,7 @@
 - Computer Technology: Homeland Security (BA) - CSU Dominguez Hills (IN PROGRESS)
 - Computer Security & Networking (AS) - Long Beach City College
 
-<u> **Certifications** </u> 
+<ins>**Certifications**</ins> 
 - CompTIA A+ [747PMYZYTJ4QQ2WJ]
 - TestOut Security Pro [6-3C6-5QGVF]
 - Microsoft Office Specialist: Excel Associate [5ckr-4wvV]
