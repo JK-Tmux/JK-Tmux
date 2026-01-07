@@ -11,7 +11,9 @@
 
 <ins>**Projects**</ins> 
 
-[Homelab: Create a Mini Corporate Network with Active Directory ](https://github.com/JK-Tmux/Homelab-Utilizing-Active-Directory-)
+[Homelab: Create a Mini Corporate Network with Active Directory](https://github.com/JK-Tmux/Homelab-Utilizing-Active-Directory-)
+
+ [Evil Portal Flipper Zero Tutorial - Momentum Firmware](https://github.com/JK-Tmux/Evil-Portal-Flipper-Zero-Tutorial-Momentum-Firmware/blob/main/README.md)
 
 [elif tutorial - bash "Input Parameter Parsing"](https://github.com/janikaralee/interactive-tutorials/blob/master/tutorials/learnshell.org/en/elif.md)
 
