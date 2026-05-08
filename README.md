@@ -20,7 +20,7 @@
 
 <ins>**CTFs**</ins> 
 - National Cyber League (NCL) — Spring 2026 Individual Game [Experienced Bracket]
-&emsp;- Placed 27th nationally out of 466 competitors
+  - Placed 27th nationally out of 466 competitors
 - National Cyber League (NCL) — Fall 2026 Team Game [Experienced Bracket]
  - Team placed 41st nationally out of 341 teams
 - National Cyber League (NCL) — Fall 2025 Individual Game
