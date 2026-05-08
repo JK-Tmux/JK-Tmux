@@ -19,7 +19,12 @@
 
 
 <ins>**CTFs**</ins> 
-- NCL Fall 2025 Team Game | Diamond | 90th percentile overall | November 2025
-- NCL Fall 2025 Individual Game | Diamond | 95th percentile overall | November 2025
+- National Cyber League (NCL) — Spring 2026 Individual Game [Experienced Bracket]
+ - Placed 27th nationally out of 466 competitors
+- National Cyber League (NCL) — Fall 2026 Team Game [Experienced Bracket]
+ - Team placed 41st nationally out of 341 teams
+- National Cyber League (NCL) — Fall 2025 Individual Game
+ - Placed 218th nationally out of 7,876 competitors
 - Season V, US Cyber Open | July 2025
-- NCL Spring 2025 Team Game | Platinum | 75th percentile overall | April 2025
+- National Cyber League (NCL) — Fall 2025 Team Game [Experienced Bracket]
+ - Team placed 57th nationally out of 454 teams 
