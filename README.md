@@ -6,7 +6,6 @@ IT Professional, Business Owner, and Cybersecurity Student
 
 Passionate about Networking, Security, Technology, and CTFs.
 
----
 
 ## Education
 
