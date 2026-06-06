@@ -25,30 +25,11 @@ Passionate about Networking, Security, and Technology, with a particular interes
 
 ## Homelab
 
-### Infrastructure
-
-* Proxmox Virtual Environment
-* Docker & Portainer
-* Active Directory
-* Network Services & Infrastructure
-
-### Networking & Monitoring
-
-* Pi-hole (DNS Filtering)
-* Uptime Kuma (Service Monitoring)
-* Netdata (Performance Monitoring)
-
-### Self-Hosted Services
-
-* Nextcloud
-* Audiobookshelf
-* Jellyfin
-
-### Security & Training Labs
-
-* OWASP Juice Shop
-* Damn Vulnerable Web Application (DVWA)
-* Capture The Flag (CTF) Environments
+* **Infrastructure** — Proxmox, Active Directory, Docker, Portainer
+* **Networking** — Pi-hole, DNS Services
+* **Monitoring** — Uptime Kuma, Netdata
+* **Self-Hosted** — Nextcloud, Jellyfin, Audiobookshelf
+* **Security Labs** — OWASP Juice Shop, DVWA, CTF Environments
 
 ## CTFs
 
