@@ -1,5 +1,10 @@
-## **Hi** 👋
+IT Professional, Business Owner, and Cybersecurity Student
 
+*Enumerate. Exploit. Document. Repeat.*
+
+Passionate about Networking, Security, Technology, and CTFs.
+
+<ins>**Education**</ins> 
 - Computer Technology: Homeland Security (BA) - CSU Dominguez Hills (IN PROGRESS)
 - Computer Security & Networking (AS) - Long Beach City College
 
