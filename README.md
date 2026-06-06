@@ -4,8 +4,7 @@ IT Professional, Business Owner, and Cybersecurity Student
 
 *Enumerate. Exploit. Document. Repeat.*
 
-Passionate about Networking, Security, Technology, and CTFs.
-
+Passionate about Networking, Security, and Technology, with a particular interest in CTFs and Hands-On Hardware Projects.
 
 ## Education
 
