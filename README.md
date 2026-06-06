@@ -15,10 +15,15 @@ Passionate about Networking, Security, Technology, and CTFs.
 
 ## Certifications
 
-* CompTIA A+ *(747PMYZYTJ4QQ2WJ)*
-* TestOut Security Pro *(6-3C6-5QGVF)*
-* Microsoft Office Specialist: Excel Associate *(5ckr-4wvV)*
+* CompTIA A+
+* TestOut Security Pro 
+* Microsoft Office Specialist: Excel Associate
 * Professional Communication | Certiport
+
+## Projects
+
+* [Homelab: Create a Mini Corporate Network with Active Directory](https://github.com/JK-Tmux/Homelab-Utilizing-Active-Directory-)
+* [Evil Portal Flipper Zero Tutorial - Momentum Firmware](https://github.com/JK-Tmux/Evil-Portal-Flipper-Zero-Tutorial-Momentum-Firmware/blob/main/README.md)
 
 ## Homelab
 
@@ -28,10 +33,6 @@ Passionate about Networking, Security, Technology, and CTFs.
 * Pi-hole
 * Network Services & Infrastructure
 
-## Projects
-
-* [Homelab: Create a Mini Corporate Network with Active Directory](https://github.com/JK-Tmux/Homelab-Utilizing-Active-Directory-)
-* [Evil Portal Flipper Zero Tutorial - Momentum Firmware](https://github.com/JK-Tmux/Evil-Portal-Flipper-Zero-Tutorial-Momentum-Firmware/blob/main/README.md)
 
 ## CTFs
 
