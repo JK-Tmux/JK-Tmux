@@ -20,7 +20,7 @@ Passionate about Networking, Security, and Technology, with a particular interes
 
 ## Projects
 
-* [Homelab: Create a Mini Corporate Network with Active Directory](https://github.com/JK-Tmux/Homelab-Utilizing-Active-Directory-)
+* [Windows-Active-Directory-Lab](https://github.com/JK-Tmux/Windows-Active-Directory-Lab)
 * [Evil Portal Flipper Zero Tutorial - Momentum Firmware](https://github.com/JK-Tmux/Evil-Portal-Flipper-Zero-Tutorial-Momentum-Firmware/blob/main/README.md)
 
 ## Homelab
