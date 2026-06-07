@@ -21,7 +21,7 @@ Passionate about Networking, Security, and Technology, with a particular interes
 ## Projects
 
 * [Windows-Active-Directory-Lab](https://github.com/JK-Tmux/Windows-Active-Directory-Lab)
-* [Evil Portal Flipper Zero Tutorial - Momentum Firmware](https://github.com/JK-Tmux/Evil-Portal-Flipper-Zero-Tutorial-Momentum-Firmware/blob/main/README.md)
+* [Flipper-Zero-Evil-Portal-Guide - Momentum Firmware](https://github.com/JK-Tmux/Flipper-Zero-Evil-Portal-Guide)
 
 ## Homelab
 
