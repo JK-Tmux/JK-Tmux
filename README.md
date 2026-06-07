@@ -20,6 +20,7 @@ Passionate about Networking, Security, and Technology, with a particular interes
 
 ## Projects
 
+* [ESP32-NTP-Clock](https://github.com/JK-Tmux/ESP32-NTP-Clock)
 * [Windows-Active-Directory-Lab](https://github.com/JK-Tmux/Windows-Active-Directory-Lab)
 * [Flipper-Zero-Evil-Portal-Guide - Momentum Firmware](https://github.com/JK-Tmux/Flipper-Zero-Evil-Portal-Guide)
 
